@@ -63,3 +63,4 @@ Database of astronomical papers <a href="https://adsabs.harvard.edu">ADS</a>  ma
 
 <u>Draft_comparison.ipynb</u> is unkommented and written for efficiency comparison of various xmatch methods (NN, , <a href=https://www.aanda.org/articles/aa/full_html/2017/11/aa30965-17/aa30965-17.html > ErrorEllipses</a>, <a href="https://arxiv.org/abs/1503.01184"> MatchEX</a>) in terms of precision and recall of xmatch procedure, which are also described in MatchEx paper 
  
+<u>Draft_ugriz_best_model.ipynb</u> is also unkommented and was written for choosing the best match classificator (SVM) when comparing objects with data avaliable on several photometric filters (g, r, i, z bands for PS1 and SDSS DR12 astronomical catalogs)
