@@ -60,3 +60,6 @@ Database of astronomical papers <a href="https://adsabs.harvard.edu">ADS</a>  ma
 <b>position_test</b> tests a hypothesis that two compared objects, located within the limits of their measurement errors are actually the same one (<a href="https://doi.org/10.1051/0004-6361/201015141">Details</a>, 3.1.1) and <b>photometry_test</b>, which loads trained in <u>model.ipynb</u> classificator (<u>Maidanak.save</u> - for now for Maidanak observatory R filter only)
 
 <u>Final_comments.ipynb</u> represents an advanced and commented copy of ready-for-work <u>Final.ipynb</u> 
+
+<u>Draft_comparison.ipynb</u> is unkommented and written for efficiency comparison of various xmatch methods (NN, , <a href=https://www.aanda.org/articles/aa/full_html/2017/11/aa30965-17/aa30965-17.html > ErrorEllipses</a>, <a href="https://arxiv.org/abs/1503.01184"> MatchEX</a>) in terms of precision and recall of xmatch procedure, which are also described in MatchEx paper 
+ 
